@@ -2,7 +2,7 @@
 
 Accessible simple modal overlay component for React JS
 
-[![NPM](https://img.shields.io/npm/v/react-modal-overlay.svg)](https://www.npmjs.com/package/react-modal-overlay) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.org/akmamun/react-modal-overlay.svg?branch=master)](https://travis-ci.org/akmamun/react-modal-overlay)
+
 
 ## Table of Contents
 
