@@ -79,6 +79,4 @@ export default class ExampleModal extends Component {
 
 - [Class based Component example](https://codesandbox.io/s/react-modal-overlay-wybon)
 
-## License
 
-MIT © [akmamun](https://github.com/akmamun)
